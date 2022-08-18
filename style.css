@@ -4,7 +4,7 @@ body {
 
 .b1 {
     background: url(./images/bg-hero-desktop.svg), #ebfbff;
-    width: 1440px;
+    width: 100%;
     height: 670px;
     margin-top: -25px;
     margin-left: -10px;
@@ -262,7 +262,7 @@ body {
 
 .b7 {
     background: hsl(192, 100%, 9%);
-    width: 1440px;
+    width: 100%;
     height: 560px;
     margin-left: 0px;
     margin-bottom: 0px;
